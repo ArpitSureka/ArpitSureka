@@ -42,10 +42,10 @@
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://reactjs.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
-<a href="https://mongodb.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </p>
-<img width ='30px' align='center' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/jupyter-seeklogo.com.svg'/>
-<img width ='30px' align='center' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/figma-seeklogo.com.svg'/>
-<img align="center" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+<a href="https://mongodb.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="#"> <img src='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/jupyter-seeklogo.com.svg' alt="jupyter" width="40" height="40"/> </a>
+<a href="#"> <img src='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/figma-seeklogo.com.svg' alt="figma" width="40" height="40"/> </a>
+<a href="#"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VScode" width="40" height="40"/> </a>
 
 
 <br>
