@@ -17,16 +17,15 @@
 
 
  ### Find me at:
-<p align = 'left'> 
+<p align="center"> 
 <a href = 'https://www.linkedin.com/in/arpitsureka/'> <img width = '26px' align= 'centre' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.instagram.com/arpit_sureka_/'> <img width = '26px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 </p>
 
-<h3 align='left'> Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h3>
+<h3 align="center"> Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h3>
 
 <img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg' />
 
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'/>
 
 <img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'/>
 
@@ -34,9 +33,6 @@
 
 <img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg' />
 
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'/>
-
-<img width ='30px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'/>
 
 <img width ='30px' align='left' src ='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/jupyter-seeklogo.com.svg'/>
 
@@ -46,7 +42,7 @@
 <img align="left" alt="Blender" width="30px" src="https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/blender-seeklogo.com.svg"/>  
 
 
-
+<br>
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
@@ -73,4 +69,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=ArpitSureka&theme=redical">
 </p> 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+
