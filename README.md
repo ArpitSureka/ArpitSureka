@@ -15,14 +15,6 @@
 
 </p>
 
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-<p align="center"> 
-<a href="https://www.linkedin.com/in/arpitsureka/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/arpit_sureka_/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="c" width="40" height="40"/> </a>
-<a href="mailto:surekaarpit@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="c" width="45" height="45"/> </a>
-<a href="mailto:a.sureka@iitg.ac.in" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="c" width="50" height="50"/> </a>
-</p>
 
 <h3 align="center"> Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h3>
 
@@ -48,6 +40,14 @@
 <!-- <a href="#"> <img src='https://rahttps://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svgw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt="aws" width="40" height="40"/> </a> -->
 <p>
 
+<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
+<p align="center"> 
+<a href="https://www.linkedin.com/in/arpitsureka/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/arpit_sureka_/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="c" width="40" height="40"/> </a>
+<a href="mailto:surekaarpit@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="c" width="45" height="45"/> </a>
+<a href="mailto:a.sureka@iitg.ac.in" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="c" width="50" height="50"/> </a>
+</p>
 
 <br>
 <!-- <h2 align="center">
@@ -75,6 +75,7 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ArpitSureka&theme=redical">
 </p> 
-<hr>
 
 <h2 align="center">Thanks For Visiting<img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<br>
+<hr>
