@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://raw.githubusercontent.com/ArpitSureka/ArpitSureka/master/images/3(1).png" />
+<img src="https://raw.githubusercontent.com/ArpitSureka/ArpitSureka/master/images/3%20(1).png" />
 
 <p align="center">
   I'm a 2nd year student pursuing Bachleors's in Mechanical Engineering 🎓 from Indian Institute Of Technology Guwahati 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
