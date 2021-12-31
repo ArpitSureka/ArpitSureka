@@ -20,13 +20,13 @@
 <p align="center"> 
 <a href="https://www.linkedin.com/in/arpitsureka/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.instagram.com/arpit_sureka_/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="c" width="40" height="40"/> </a>
-<a href="mailto: surekaarpit@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="c" width="40" height="40"/> </a>
-<a href="mailto: .a.sureka@iitg.ac.in" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="c" width="40" height="40"/> </a>
+<a href="mailto: surekaarpit@gmail.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="c" width="45" height="45"/> </a>
+<a href="mailto: .a.sureka@iitg.ac.in" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ms-outlook.png" alt="c" width="50" height="50"/> </a>
 </p>
 
 <h3 align="center"> Technology Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </h3>
 
-
+<p>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -46,6 +46,7 @@
 <a href="#"> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt="babel" width="40" height="40"/> </a>
 <!-- <a href="#"> <img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' alt="firebase" width="40" height="40"/> </a> -->
 <!-- <a href="#"> <img src='https://rahttps://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svgw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt="aws" width="40" height="40"/> </a> -->
+<p>
 
 
 <br>
