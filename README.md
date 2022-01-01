@@ -36,7 +36,7 @@
 <a href="#"> <img src='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/jupyter-seeklogo.com.svg' alt="jupyter" width="40" height="40"/> </a>
 <a href="#"> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg' alt="mocha" width="40" height="40"/> </a>
 <a href="#"> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt="babel" width="40" height="40"/> </a>
-<a href="https://socket.io/" target="_blank"> <img src="https://raw.githubusercontent.com/ArpitSureka/ArpitSureka/master/images/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png" alt="express" style="background-color:white;" width="40" height="40"/> </a>
+<a href="https://socket.io/" target="_blank"> <img src="https://raw.githubusercontent.com/ArpitSureka/ArpitSureka/master/images/png-clipart-socket-io-node-js-javascript-network-socket-websocket-electrical-cable-angle-triangle.png" alt="express" width="40" height="40"/> </a>
 <!-- <a href="#"> <img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' alt="firebase" width="40" height="40"/> </a> -->
 <!-- <a href="#"> <img src='https://rahttps://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svgw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg' alt="aws" width="40" height="40"/> </a> -->
 </p>
