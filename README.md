@@ -30,7 +30,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a> 
 <a href="https://nodejs.org/en/docs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" style="background-color:white;" width="40" height="40"/> </a> 
+<a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" style="background-color:white; padding:20px;" width="40" height="40"/> </a> 
 <a href="https://reactjs.org"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/> </a>
 <a href="https://mongodb.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="#"> <img src='https://raw.githubusercontent.com/C-Omkar/C-Omkar/main/jupyter-seeklogo.com.svg' alt="jupyter" width="40" height="40"/> </a>
